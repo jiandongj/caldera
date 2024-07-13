@@ -46,3 +46,6 @@
 [submodule "plugins/manx"]
 	path = plugins/manx
 	url = https://github.com/mitre/manx.git
+[submodule "plugins/stockpile"]
+	path = plugins/stockpile
+	url = https://github.com/mitre/stockpile.git
